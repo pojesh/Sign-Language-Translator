@@ -47,7 +47,7 @@ This project is designed to assist individuals with speech impairments by enabli
 ### Uploading the Code
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/sign-language-translator.git
+    git clone https://github.com/pojesh/sign-language-translator.git
     cd sign-language-translator
     ```
 
