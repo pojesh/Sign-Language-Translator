@@ -51,10 +51,10 @@ This project is designed to assist individuals with speech impairments by enabli
     cd sign-language-translator
     ```
 
-2. Open the `.ino` file in the Arduino IDE.
+2. Open the `Translator.ino` file in the Arduino IDE.
 
 3. Upload the code to your Arduino board:
-    - Select the correct board type (e.g., Arduino Uno).
+    - Select the correct board type (Arduino Nano).
     - Select the correct port for your Arduino.
     - Click the upload button.
 
