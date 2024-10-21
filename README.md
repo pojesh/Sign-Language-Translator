@@ -17,7 +17,7 @@ This project is designed to assist individuals with speech impairments by enabli
 - **Text and Speech Output**: Displays the recognized phrase on the Android app and speaks it aloud using text-to-speech (TTS) functionality.
 
 ## Components Used
-- **Arduino Uno/Nano/ESP32**: The microcontroller used to interface with sensors.
+- **Arduino Nano**: The microcontroller used to interface with sensors.
 - **MPU-6050 Gyroscope**: Captures the glove's orientation and motion.
 - **Flex Sensors**: Five flex sensors are attached to the glove, one for each finger.
 - **HC-05 Bluetooth Module**: Facilitates wireless communication between the glove and the Android app.
